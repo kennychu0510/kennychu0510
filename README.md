@@ -1,6 +1,6 @@
 <br/>  
 
-### <div align="center">I'm Kenny, a mobile app developer 📱👨‍💻 since 2022 🚀</div>  
+### <div align="center">I'm Kenny, a frontend developer 📱👨‍💻 since 2022 🚀</div>  
   
 
 <br/>  
